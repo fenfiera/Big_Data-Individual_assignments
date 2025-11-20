@@ -1,9 +1,0 @@
-org\apache\maven\archetypes\jmh_generated\MatrixBenchmark_jmhType_B2.class
-org\apache\maven\archetypes\MatrixBenchmark.class
-org\apache\maven\archetypes\jmh_generated\MatrixBenchmark_jmhType.class
-META-INF\BenchmarkList
-org\apache\maven\archetypes\jmh_generated\MatrixBenchmark_jmhType_B3.class
-org\apache\maven\archetypes\jmh_generated\MatrixBenchmark_jmhType_B1.class
-META-INF\CompilerHints
-org\apache\maven\archetypes\jmh_generated\MatrixBenchmark_matrixMultiplicationTransposed_jmhTest.class
-org\apache\maven\archetypes\jmh_generated\MatrixBenchmark_benchmarkMatrixMultiplication_jmhTest.class
